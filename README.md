@@ -3,10 +3,15 @@
 The data and code found in this repository correspond to the following paper:
 
 Matthew Smith, Francisco Alvarez,
+
 Identifying mortality factors from Machine Learning using Shapley values - a case of COVID19,
+
 Expert Systems with Applications,
+
 2021,
+
 114832,
+
 ISSN 0957-4174,
 https://doi.org/10.1016/j.eswa.2021.114832.
 (https://www.sciencedirect.com/science/article/pii/S0957417421002736)
